@@ -70,3 +70,15 @@ This project explores a furniture sales dataset to uncover trends in product cat
 
 - Rebuild the same dashboard in Power BI or Tableau for comparison
 - Add forecast visuals and year-on-year growth metrics
+## ✅ Recommendations
+
+Based on insights from the analysis, here are some actionable recommendations:
+
+1. *Focus Marketing Efforts on West Region*  
+   The West region consistently generates the highest profit. Increasing marketing or expanding inventory here could further boost revenue.
+
+2. *Re-evaluate Product Strategy in the South*  
+   The South region showed lower profit margins. Investigate potential causes (e.g., customer preferences or shipping costs) and consider adjusting pricing or promotions.
+
+3. *Target the Corporate Segment*  
+   Corporate customers deliver the most sales value. Tailoring offers or loyalty programs to this segment can increase retention and revenue.

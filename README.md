@@ -59,12 +59,15 @@ This project explores a furniture sales dataset to uncover trends in product cat
 
 ---
 
-
 ## 📎 Files Included
 
 - furniture_sales_data.xlsx – Excel file containing cleaned data, pivot tables, and dashboard
 -furniture_sales_dashboard_xlsx - Picture of the excel dashboard
 ---
+
+## 🖼 Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ## ✅ Next Steps
 
